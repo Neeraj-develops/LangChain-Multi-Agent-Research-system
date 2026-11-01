@@ -17,3 +17,7 @@ lxml>=5.0.0
 
 # Environemnt variables
 python-dotenv>=1.0.0
+
+
+#Loggin / debugging
+rich>=13.7.0
